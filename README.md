@@ -200,9 +200,3 @@ _ = search(
 **Jivesh Dhakate**  
 MSc Computer Science (Negotiated Learning), University College Dublin  
 📧 [LinkedIn](https://www.linkedin.com/in/jivesh-dhakate/) | 🧠 LangChain | 🧩 ChromaDB | ☁️ Cloud & ML
-
----
-
-## 🏷️ License
-MIT License © 2025  
-This repository is for educational and research purposes.
